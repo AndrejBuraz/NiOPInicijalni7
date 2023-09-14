@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\InicijalnoPonavljanje7\InicijalnoPonavljanje7\bin\Debug\InicijalnoPonavljanje7.exe.config
+C:\Users\HP\source\repos\InicijalnoPonavljanje7\InicijalnoPonavljanje7\bin\Debug\InicijalnoPonavljanje7.exe
+C:\Users\HP\source\repos\InicijalnoPonavljanje7\InicijalnoPonavljanje7\bin\Debug\InicijalnoPonavljanje7.pdb
+C:\Users\HP\source\repos\InicijalnoPonavljanje7\InicijalnoPonavljanje7\obj\Debug\InicijalnoPonavljanje7.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\InicijalnoPonavljanje7\InicijalnoPonavljanje7\obj\Debug\InicijalnoPonavljanje7.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\InicijalnoPonavljanje7\InicijalnoPonavljanje7\obj\Debug\InicijalnoPonavljanje7.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\InicijalnoPonavljanje7\InicijalnoPonavljanje7\obj\Debug\InicijalnoPonavljanje7.exe
+C:\Users\HP\source\repos\InicijalnoPonavljanje7\InicijalnoPonavljanje7\obj\Debug\InicijalnoPonavljanje7.pdb
